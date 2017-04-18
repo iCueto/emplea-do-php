@@ -28,6 +28,7 @@
       @include('layouts.nav')
 
       <main>
+        <br>
         <div class="container">
           @yield('content')
         </div>
