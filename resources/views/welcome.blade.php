@@ -7,8 +7,8 @@
     <h5>
       Welcome to the home page of <b>Emplea.do PHP</b>
     </h5>
-      <p>
-        <button class="btn red">Jobs</button>
-      </p>
-</div>
+    <p>
+      <button class="btn red">Jobs</button>
+    </p>
+  </div>
 @endsection
